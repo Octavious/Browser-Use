@@ -1,6 +1,6 @@
-# Browser-Use-2
+# Browser-Use
 
-A Python project that demonstrates the use of browser automation with LangChain and Google's Gemini AI model. This project allows you to create AI agents that can perform web-based tasks using natural language instructions.
+A Python project that demonstrates the use of browser automation with Browser Use (https://github.com/browser-use/browser-use) and Google's Gemini AI model. This project allows you to create AI agents that can perform web-based tasks using natural language instructions.
 
 ## Features
 
