@@ -20,8 +20,8 @@ A Python project that demonstrates the use of browser automation with LangChain 
 
 1. Clone the repository:
 ```bash
-git clone [<repository-url>](https://github.com/Octavious/Browser-Use.git)
-cd Browser-Use-2
+git clone https://github.com/Octavious/Browser-Use.git
+cd Browser-Use
 ```
 
 2. Create and activate a virtual environment:
