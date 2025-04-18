@@ -1,3 +1,4 @@
+<a href="https://www.buymeacoffee.com/ArabicAI" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 # Browser-Use
 
 A Python project that demonstrates the use of browser automation with Browser Use (https://github.com/browser-use/browser-use) and Google's Gemini AI model. This project allows you to create AI agents that can perform web-based tasks using natural language instructions.
